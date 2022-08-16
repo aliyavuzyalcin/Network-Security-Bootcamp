@@ -56,8 +56,8 @@
 	*	İstanbul Router'ından İzmir Router'ına OSPF konfigüre edildi.
 	*	İzmir Router'ından İstanbul Router'ına OSPF konfigüre edildi.
 	*	Ankara Router'ından İstanbul Router'ına OSPF konfigüre edildi.
-	*	İstanbul-Ankara arasında ***Authentication** kuralı yazıldı.
-	*	Tüm routerlar arası ***hello-interval** ve **dead-interval** kuralları yazıldı.
+	*	İstanbul-Ankara arasında ***Authentication*** kuralı yazıldı.
+	*	Tüm routerlar arası ***hello-interval*** ve ***dead-interval*** kuralları yazıldı.
 
 *	**7.ADIM**
 	*	***Access-List*** kuralı oluşturuldu. 

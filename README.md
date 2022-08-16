@@ -34,7 +34,7 @@
 *	**5.ADIM**
 	*	Ping kontrolleri yapıldı.
 
-##PROJE-1 Static Routing
+## PROJE-1 Static Routing
 
 *	**6.ADIM**
 	*	İstanbul'dan İzmir'e ***Static route*** yazıldı.
@@ -49,15 +49,15 @@
 	*	Gerekli testler yapıldı.
 
 
-##PROJE-2 OSPF
+## PROJE-2 OSPF
 
 *	**6.ADIM**
 	*	İstanbul Router'ından Ankara Router'ına OSPF konfigüre edildi.
 	*	İstanbul Router'ından İzmir Router'ına OSPF konfigüre edildi.
 	*	İzmir Router'ından İstanbul Router'ına OSPF konfigüre edildi.
 	*	Ankara Router'ından İstanbul Router'ına OSPF konfigüre edildi.
-	*	İstanbul-Ankara arasında ***Authentication** kuralı yazıldı.
-	*	Tüm routerlar arası ***hello-interval** ve **dead-interval** kuralları yazıldı.
+	*	İstanbul-Ankara arasında ***Authentication*** kuralı yazıldı.
+	*	Tüm routerlar arası ***hello-interval*** ve ***dead-interval*** kuralları yazıldı.
 
 *	**7.ADIM**
 	*	***Access-List*** kuralı oluşturuldu. 
@@ -71,4 +71,4 @@
 
 @author [Ali Yavuz YALÇIN](https://www.linkedin.com/in/ali-yavuz-yalcin/)
 
-###Network & Security Bootcamp --> [techcareer.net](https://www.techcareer.net/en) 
+### Network & Security Bootcamp --> [techcareer.net](https://www.techcareer.net/en) 

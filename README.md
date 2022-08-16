@@ -34,7 +34,7 @@
 *	**5.ADIM**
 	*	Ping kontrolleri yapıldı.
 
-##PROJE-1 Static Routing
+## PROJE-1 Static Routing
 
 *	**6.ADIM**
 	*	İstanbul'dan İzmir'e ***Static route*** yazıldı.
@@ -49,7 +49,7 @@
 	*	Gerekli testler yapıldı.
 
 
-##PROJE-2 OSPF
+## PROJE-2 OSPF
 
 *	**6.ADIM**
 	*	İstanbul Router'ından Ankara Router'ına OSPF konfigüre edildi.
@@ -71,4 +71,4 @@
 
 @author [Ali Yavuz YALÇIN](https://www.linkedin.com/in/ali-yavuz-yalcin/)
 
-###Network & Security Bootcamp --> [techcareer.net](https://www.techcareer.net/en) 
+### Network & Security Bootcamp --> [techcareer.net](https://www.techcareer.net/en) 
